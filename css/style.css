@@ -14,10 +14,10 @@
   text-decoration: none;
   text-transform: uppercase;
 }
-.container .mein {
+.container .main {
   background-color: purple;
 }
-.container .mein ul li a {
+.container .main ul li a {
   color: red;
   text-decoration: none;
 }
